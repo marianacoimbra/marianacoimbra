@@ -15,10 +15,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mariana.coimbra@ccc.ufcg.edu.br)
 </div>
 
+<div align="center">
 <h3>My GitHub: </h3>
-
-<p>
   
 ![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianacoimbra&show_icons=true&theme=radical)
-![Mariana's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoimbra&layout=compact&theme=radical)
-</p>
+</div>
