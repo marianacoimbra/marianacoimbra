@@ -1,7 +1,7 @@
-<h1> Hi there!! </h1>
+<h1> Hi there!!! </h1>
 <br>
 
-<p>My name is Mariana Coimbra. I've been working as Front-End Developer and I'm currently a undergraduate of Computer Science at the UFCG University.   ⚡ Fun fact: I love to study music!</p>
+<p>My name is Mariana Coimbra. I've been working as Front-End Developer and I'm currently a undergraduate of Computer Science at the UFCG University.   ⚡ Fun fact: I love to study music! :) </p>
 
 
 
