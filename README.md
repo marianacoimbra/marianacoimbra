@@ -26,9 +26,9 @@
 <div align="left">
 <h3>My GitHub: </h3>
   
-![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianacoimbra&show_icons=true&theme=radical)
+![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianacoimbra&show_icons=true&theme=cobalt&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoimbra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacoimbra&show_icons=true&theme=cobalt&&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Skills</h3>
 
