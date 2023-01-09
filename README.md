@@ -3,7 +3,7 @@
 <h3>About Me :)</h3>
 <img src="https://user-images.githubusercontent.com/62628408/116943768-2315aa80-ac6c-11eb-86ff-606147a5b939.gif" align="right" width="300px">
 <ul >
-  <li> 💻 I'm currently at a R&D project envolving NLP and Machine Learning </li>
+  <li> 💻 I'm currently interning as a Devops </li>
   <li> 🎓 Doing my Computer Science Bachelor at UFCG </li>
   <li> 🎯 I'm a music enthusiastic </li>
   <li> ☕ Coffee lover, turning it into code </li>
